@@ -7,3 +7,4 @@ def calculate(a,b):
     return result
 x=calculate(10,0)
 print("output:",x)
+
